@@ -1,56 +1,14 @@
-# ShutterSpeed - Rebel Rider Build
-
-No stock templates. No safe visuals.  
-This project is a bold photography and film portfolio site built to hit hard on first view.
+# ShutterSpeed
 
 ![ShutterSpeed preview](./ss.png)
 
-## What this is
+## Page Overview
 
-ShutterSpeed is a one-page React + Vite website for a creative brand focused on:
-
-- photography sessions
-- modeling and creative direction
-- videography and short film style storytelling
-- cinematic post-production
-
-## Stack
-
-- React 18
-- Vite 5
-- Plain CSS (custom layout, motion, and styling)
-
-## Run locally
-
-```bash
-npm install
-npm run dev
-```
-
-Build production bundle:
-
-```bash
-npm run build
-npm run preview
-```
-
-## Project structure
-
-```text
-src/
-  App.jsx
-  styles.css
-  assets/
-```
-
-## Contact links in UI
-
-The live UI includes direct links to:
-
-- Instagram
-- Vimeo
-- YouTube
-
-## License
-
-Personal project by Shubodaya.
+- Hero section introducing the ShutterSpeed brand with cinematic visuals and primary actions.
+- Services section covering photography sessions, modeling direction, videography, movie making, and editing.
+- Portfolio gallery section showcasing selected work in a visual grid.
+- Sessions section explaining what is included and available package options.
+- Client stories section with testimonials and Instagram story link.
+- Process section outlining the creative workflow: Discover, Produce, and Deliver.
+- Contact section with inquiry form for project bookings and teaching sessions.
+- Footer section with quick navigation and social links (Instagram, Vimeo, YouTube).
