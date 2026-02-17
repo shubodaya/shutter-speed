@@ -2,6 +2,10 @@
 
 ![ShutterSpeed preview](./ss.png)
 
+## Live Link
+
+- https://shubodaya.github.io/shutters-speed/
+
 ## Page Overview
 
 - Hero section introducing the ShutterSpeed brand with cinematic visuals and primary actions.
@@ -12,3 +16,8 @@
 - Process section outlining the creative workflow: Discover, Produce, and Deliver.
 - Contact section with inquiry form for project bookings and teaching sessions.
 - Footer section with quick navigation and social links (Instagram, Vimeo, YouTube).
+
+## Build Process
+
+- CI build runs: https://github.com/shubodaya/shutters-speed/actions/workflows/ci.yml
+- Pages deploy runs: https://github.com/shubodaya/shutters-speed/actions/workflows/deploy-pages.yml
