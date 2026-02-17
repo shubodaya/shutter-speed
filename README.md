@@ -4,7 +4,7 @@
 
 ## Live Link
 
-- https://shubodaya.github.io/shutters-speed/
+- https://shubodaya.github.io/shutter-speed/
 
 ## Page Overview
 
@@ -19,5 +19,5 @@
 
 ## Build Process
 
-- CI build runs: https://github.com/shubodaya/shutters-speed/actions/workflows/ci.yml
-- Pages deploy runs: https://github.com/shubodaya/shutters-speed/actions/workflows/deploy-pages.yml
+- CI build runs: https://github.com/shubodaya/shutter-speed/actions/workflows/ci.yml
+- Pages deploy runs: https://github.com/shubodaya/shutter-speed/actions/workflows/deploy-pages.yml
